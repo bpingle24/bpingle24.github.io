@@ -1,0 +1,48 @@
+<svg viewBox="0 0 820 760" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#5f5e5a" stroke-width="0.7" opacity="0.55">
+    <rect x="120" y="100" width="580" height="560" rx="2"/>
+    <line x1="120" y1="240" x2="700" y2="240"/>
+    <line x1="120" y1="380" x2="700" y2="380"/>
+    <line x1="120" y1="520" x2="700" y2="520"/>
+    <line x1="260" y1="100" x2="260" y2="660"/>
+    <line x1="410" y1="100" x2="410" y2="660"/>
+    <line x1="560" y1="100" x2="560" y2="660"/>
+  </g>
+  <g stroke="#e8392f" stroke-width="1.6" fill="none" opacity="0.9">
+    <line x1="190" y1="170" x2="335" y2="310"/>
+    <line x1="335" y1="310" x2="485" y2="450"/>
+    <line x1="485" y1="450" x2="630" y2="590"/>
+    <line x1="190" y1="170" x2="335" y2="450"/>
+    <line x1="335" y1="310" x2="630" y2="450"/>
+    <line x1="260" y1="590" x2="485" y2="310"/>
+  </g>
+  <g stroke="#888780" stroke-width="1" fill="none" opacity="0.6" stroke-dasharray="2 5">
+    <line x1="190" y1="450" x2="335" y2="170"/>
+    <line x1="260" y1="240" x2="560" y2="590"/>
+    <line x1="630" y1="240" x2="335" y2="590"/>
+  </g>
+  <g fill="#0a0a0a" stroke="#e8392f" stroke-width="1.6">
+    <circle cx="190" cy="170" r="9"/>
+    <circle cx="335" cy="310" r="9"/>
+    <circle cx="485" cy="450" r="9"/>
+    <circle cx="630" cy="590" r="9"/>
+  </g>
+  <g fill="#0a0a0a" stroke="#f2f2f0" stroke-width="1.4">
+    <circle cx="190" cy="450" r="6"/>
+    <circle cx="260" cy="590" r="6"/>
+    <circle cx="335" cy="170" r="6"/>
+    <circle cx="485" cy="310" r="6"/>
+    <circle cx="560" cy="590" r="6"/>
+    <circle cx="630" cy="240" r="6"/>
+  </g>
+  <g font-family="JetBrains Mono, monospace" font-size="11" fill="#8a8a86">
+    <text x="120" y="90">keyword</text>
+    <text x="560" y="90" text-anchor="end">country</text>
+    <text x="700" y="678" text-anchor="end">year →</text>
+  </g>
+  <g font-family="JetBrains Mono, monospace" font-size="11" fill="#55554f" opacity="0.85">
+    <text x="640" y="588">US</text>
+    <text x="500" y="448">PRC</text>
+    <text x="350" y="308">EU</text>
+  </g>
+</svg>
